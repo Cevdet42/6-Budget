@@ -1,0 +1,25 @@
+body {
+    background-color: #587e76;
+}
+
+.container {
+    background-color: #a96e5b;
+    width: 55vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+table, tr, td {
+    border: 1px solid #686256;
+}
+
+td {
+    font-size: 24px;
+}
